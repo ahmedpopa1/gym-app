@@ -18,7 +18,7 @@ import {
 import backButtonImage from "../assets/back.png";
 import profileImage from "../assets/user.png";
 import uploadImageIcon from "../assets/upload.png";
-import logoutIcon from "../assets/logout_icon.png";
+import logoutIcon from "../assets/logouticon.png";
 
 const Profile = () => {
   const [image, setImage] = useState(null);

@@ -9,6 +9,8 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/config-plugins": "~8.0.0",
+    "@expo/prebuild-config": "~7.0.0",
     "@react-native-async-storage/async-storage": "^1.23.1",
     "@react-native-picker/picker": "^2.7.5",
     "eas-cli": "^16.14.1",
@@ -21,7 +23,6 @@
     "expo-status-bar": "~1.12.1",
     "firebase": "^10.13.0",
     "install": "^0.13.0",
-    "npm": "^10.7.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.74.5",
